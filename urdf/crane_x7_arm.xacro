@@ -105,10 +105,10 @@
       <motorTorqueConstant>0.418</motorTorqueConstant>
       <type>transmission_interface/SimpleTransmission</type>
       <joint name="${NAME_JOINT_1}">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
       </joint>
       <actuator name="${NAME_JOINT_1}_motor">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
         <mechanicalReduction>1</mechanicalReduction>
       </actuator>
     </transmission>
@@ -168,10 +168,10 @@
       <motorTorqueConstant>0.418</motorTorqueConstant>
       <type>transmission_interface/SimpleTransmission</type>
       <joint name="${NAME_JOINT_2}">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
       </joint>
       <actuator name="${NAME_JOINT_2}_motor">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
         <mechanicalReduction>1</mechanicalReduction>
       </actuator>
     </transmission>
@@ -278,10 +278,10 @@
       <motorTorqueConstant>0.418</motorTorqueConstant>
       <type>transmission_interface/SimpleTransmission</type>
       <joint name="${NAME_JOINT_3}">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
       </joint>
       <actuator name="${NAME_JOINT_3}_motor">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
         <mechanicalReduction>1</mechanicalReduction>
       </actuator>
     </transmission>
@@ -334,10 +334,10 @@
       <motorTorqueConstant>0.418</motorTorqueConstant>
       <type>transmission_interface/SimpleTransmission</type>
       <joint name="${NAME_JOINT_4}">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
       </joint>
       <actuator name="${NAME_JOINT_4}_motor">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
         <mechanicalReduction>1</mechanicalReduction>
       </actuator>
     </transmission>
@@ -441,10 +441,10 @@
       <motorTorqueConstant>0.418</motorTorqueConstant>
       <type>transmission_interface/SimpleTransmission</type>
       <joint name="${NAME_JOINT_5}">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
       </joint>
       <actuator name="${NAME_JOINT_5}_motor">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
         <mechanicalReduction>1</mechanicalReduction>
       </actuator>
     </transmission>
@@ -500,10 +500,10 @@
       <motorTorqueConstant>0.418</motorTorqueConstant>
       <type>transmission_interface/SimpleTransmission</type>
       <joint name="${NAME_JOINT_6}">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
       </joint>
       <actuator name="${NAME_JOINT_6}_motor">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
         <mechanicalReduction>1</mechanicalReduction>
       </actuator>
     </transmission>
@@ -553,10 +553,10 @@
       <motorTorqueConstant>0.418</motorTorqueConstant>
       <type>transmission_interface/SimpleTransmission</type>
       <joint name="${NAME_JOINT_7}">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
       </joint>
       <actuator name="${NAME_JOINT_7}_motor">
-        <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
         <mechanicalReduction>1</mechanicalReduction>
       </actuator>
     </transmission>
